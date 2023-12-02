@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web, Desktop and Mobile applications developement
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on advanced Flutter projects
-- 📫 How to reach me on instagram (@aka_nexo) or Twitter aka_N3X0
+- 📫 How to reach me on Twitter aka_N3X0
 
 <!---
 N-E-X-O/N-E-X-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
